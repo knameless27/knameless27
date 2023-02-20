@@ -14,7 +14,7 @@
 
 <h3>Programming Languages</h3>
 <p>
-  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fespanol%2Fvida-y-estilo%2Farticulo%2F2020-08-08%2Fhoyla-recuento-11-cosas-aman-gatos-top&psig=AOvVaw1R25swL-8EEq87AFOIMVP6&ust=1676938031950000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICm46Hnov0CFQAAAAAdAAAAABAE)">
+  <img src="https://ca-times.brightspotcdn.com/dims4/default/83dc849/2147483647/strip/true/crop/2048x1108+0+0/resize/1200x649!/format/webp/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fa5%2F79e097ccf62312d18a025f22ce48%2Fhoyla-recuento-11-cosas-aman-gatos-top-001">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Cpp-2528FF?style=for-the-badge&logo=Cpp&logoColor=black">
