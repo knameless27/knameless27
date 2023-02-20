@@ -14,7 +14,7 @@
 
 <h3>Programming Languages</h3>
 <p>
-  <img src="https://ca-times.brightspotcdn.com/dims4/default/83dc849/2147483647/strip/true/crop/2048x1108+0+0/resize/1200x649!/format/webp/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Fa5%2F79e097ccf62312d18a025f22ce48%2Fhoyla-recuento-11-cosas-aman-gatos-top-001">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Cpp-2528FF?style=for-the-badge&logo=Cpp&logoColor=black">
@@ -24,7 +24,7 @@
 </p>
 <h4>Frontend Development</h4>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 <h4>Tools & Technologies</h4>
