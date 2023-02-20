@@ -24,7 +24,7 @@
 </p>
 <h4>Frontend Development</h4>
 <p>
-  <img src="https://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 <h4>Tools & Technologies</h4>
