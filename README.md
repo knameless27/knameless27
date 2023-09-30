@@ -7,7 +7,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/andres-camilo-gonzalez-velasquez-658888210/", 
-      "Resume"   : "https://knameless.000webhostapp.com/",
+      "Resume"   : "https://knameless.ca",
       "Email"    : "knameless27@gmail.com"
      }
  }
