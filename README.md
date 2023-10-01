@@ -3,7 +3,7 @@
 ```shell
  { 
    “name” : “Andres Camilo Gonzalez Velasquez”,
-   “role” : “Junior Developer”,
+   “role” : “Software Developer”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/andres-camilo-gonzalez-velasquez-658888210/", 
