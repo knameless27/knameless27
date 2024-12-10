@@ -20,8 +20,13 @@ I use <b>Arch Linux</b> as my main distribution for work and leisure, drawn to t
 
 ## Languages and Tools <img height="40" src="https://emoji.gg/assets/emoji/1392-pikachu-minecraft.gif">
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=vue,laravel,arch,linux,bash,py,js,html,css,react,nodejs,express,postgres,mongo,git,docker,kubernetes,jenkins,aws,postman,angular,astro&perline=11"  />
+<img width="500px" src="https://skillicons.dev/icons?i=vue,laravel,arch,linux,bash,py,js,html,css,react,nodejs,express,postgres,mongo,git,docker,kubernetes,jenkins,aws,postman,angular,astro&perline=11"  />
 </p>
+
+<br />
+
+## My Badges! <img height="40" src="https://emoji.gg/assets/emoji/48134-bmodancing.gif">
+[<img src="https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png">](https://www.credly.com/badges/d83d7273-b471-441d-94e2-6fea463b5e97/public_url)
 
 <br />
 
